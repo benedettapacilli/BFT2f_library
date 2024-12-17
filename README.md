@@ -89,7 +89,7 @@ No external libraries are required; all necessary components are part of Python'
 ---
 
 ## Authors
-Benedetta Pacilli - benedetta.pacilli@studio.unibo.it
+Benedetta Pacilli - benedetta.pacilli@studio.unibo.it <br/>
 Valentina Pieri - valentina.pieri5@studio.unibo.it
 
 ---
